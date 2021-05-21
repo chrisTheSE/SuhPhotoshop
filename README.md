@@ -1,5 +1,5 @@
 # SuhPhotoshop
-A photoshop program built in Java. 
+A photoshop program built in Java. The list of photo filters/effects is: Restore to Original, Vertical flip, Horizontal flip, Gray Scale, Sepia Tone, Invert Color, Gaussian Blur, Buldge Effect, Crop, and Resize.
 ![demo1](https://user-images.githubusercontent.com/46283418/119167493-ebf61600-ba2d-11eb-8220-e1c810641d2c.PNG)
 ![demo2](https://user-images.githubusercontent.com/46283418/119167503-ed274300-ba2d-11eb-8c6e-ecc0b04a23d1.PNG)
 ![demo3](https://user-images.githubusercontent.com/46283418/119167509-eef10680-ba2d-11eb-9384-6a542254be2f.PNG)
